@@ -35,29 +35,33 @@ I also really enjoy participating in design discussions / brainstorming solution
 Sorry, I can’t help it.
 
 ## How you can help me
-If something isn’t working, please let me know.  If you are uncomfortable delivering this kind of feedback to me directly, you can speak to my manager to have them relay the message.  I am also open to written feedback in email / slack / etc.
+### If something isn’t working, please let me know.
+If you are uncomfortable delivering this kind of feedback to me directly, you can speak to my manager to have them relay the message.  I am also open to written feedback in email / slack / etc.
+
 I don’t expect you to provide solutions to everything.  If something doesn’t feel right, let me know and we can talk through it.
-Talk to me about your career goals.  The more I know, the more I can do to help you achieve them.  Not being sure what you want is also fine.  Let’s work together to figure that out :)
-Give me a heads up about potential issues as soon as you can.  Even just a “spidey sense” that things feel off.  This can cover a wide range of things, from delays in completing tasks, questions about prioritization, weird interpersonal interactions or tensions between teammates, etc.
+
+### Talk to me about your career goals.
+The more I know, the more I can do to help you achieve them.  Not being sure what you want is also fine.  Let’s work together to figure that out :)
+
+### Give me a heads up about potential issues as soon as you can.
+Even just a “spidey sense” that things feel off.  This can cover a wide range of things, from delays in completing tasks, questions about prioritization, weird interpersonal interactions or tensions between teammates, etc.
 
 ## Known Quirks
-**I get super excited in helping people grow.**
+### I get super excited in helping people grow.
 I love seeking out opportunities for people to try new things.  Sometimes I get too excited.  If I push you too much, or suggest too many things and you need help prioritizing, please let me know.  I won’t be offended if you tell me I should slow down a bit or back off.
 
-
-**I talk a lot.**
+### I talk a lot.
 I ramble, one might say.  I dislike silence.  If you need silence, or need me to stop talking and listen, you can tell me “I need you to just listen”.  If that’s too direct, we can come up with a code phrase.  Maybe “banana”.
 
-
-**Also, I work a lot.**
+### Also, I work a lot.
 I have a hard time sleeping if there’s a task left unfinished or a problem left unsolved.  I do NOT expect you to do the same.  If I see you putting in long hours, expect that I’ll check in and make sure you’re doing it because you want to (like me), not because you feel like you have to.
 
-**I have a weirdly high tolerance for process.**
+### I have a weirdly high tolerance for process.
 This is great for you, because I will power through process-heavy things (like level ups, planning events, etc.) so you don’t have to bear the full brunt of it.  However, this means I also have a blind spot when team processes get too cumbersome.  I need you to help keep me in check there.
 
 I love figuring out how to “work the system”.  I derive substantial satisfaction from learning the ins and outs of how a system / process works and helping other folks navigate things quickly with minimal pain.  Maybe my next career should be as a sherpa (lol, just kidding.  I hate the cold).
 
-**I default to a light touch when dealing with performance issues...**
+### I default to a light touch when dealing with performance issues...
 ...because this is the approach that works best for those who have to manage me.  If our 1x1s are full of:
     * Suggestions of things you could do instead of / in addition to what you’ve been doing, or
     * Extensive questions about what you’ve been spending your time on
@@ -66,5 +70,4 @@ I may be trying to guide you back to being “on track”.  I’m working on bei
 ## In Conclusion
 I hope this helps you get a sense of what working with me will be like.  If you feel at any time that I am not living up to this document, call me out on it.  You can always soften the blow with funny cat gifs.
 
-I look forward to working with and learning from all of you!  
-
+I look forward to working with and learning from all of you!
