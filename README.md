@@ -1,4 +1,4 @@
-# Cheryl J. Manager README
+# Cheryl's Manager README
 ## What is this?
 This thing?  This is a concept that’s been floating around Eng Managers at Indeed.  Yeah, it’s kinda weird, but also kinda neat.  Learning how to work with a new manager can be hard.  For some folks, it can be an anxiety-inducing phase until we figure things out.  This README aims to help alleviate some of that anxiety and jump-start our working relationship.
 
