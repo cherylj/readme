@@ -57,9 +57,9 @@ I ramble, one might say.  I dislike silence.  If you need silence, or need me to
 I have a hard time sleeping if there’s a task left unfinished or a problem left unsolved.  I do NOT expect you to do the same.  If I see you putting in long hours, expect that I’ll check in and make sure you’re doing it because you want to (like me), not because you feel like you have to.
 
 ### I have a weirdly high tolerance for process.
-This is great for you, because I will power through process-heavy things (like level ups, planning events, etc.) so you don’t have to bear the full brunt of it.  However, this means I also have a blind spot when team processes get too cumbersome.  I need you to help keep me in check there.
+This is great for you, because I will power through process-heavy things (like level ups, planning events, etc.) so you don’t have to bear the full brunt of it.  I love figuring out how to “work the system”.  I derive substantial satisfaction from learning the ins and outs of how a system / process works and helping other folks navigate things quickly with minimal pain.  Maybe my next career should be as a sherpa (lol, just kidding.  I hate the cold).
 
-I love figuring out how to “work the system”.  I derive substantial satisfaction from learning the ins and outs of how a system / process works and helping other folks navigate things quickly with minimal pain.  Maybe my next career should be as a sherpa (lol, just kidding.  I hate the cold).
+However, my tolerance for process means I also have a blind spot when team processes get too cumbersome.  I need you to help keep me in check there.
 
 ### I default to a light touch when dealing with performance issues...
 ...because this is the approach that works best for those who have to manage me.  If our 1x1s are full of:
