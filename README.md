@@ -65,6 +65,7 @@ However, my tolerance for process means I also have a blind spot when team proce
 ...because this is the approach that works best for those who have to manage me.  If our 1x1s are full of:
 * Suggestions of things you could do instead of / in addition to what you’ve been doing, or
 * Extensive questions about what you’ve been spending your time on
+
 I may be trying to guide you back to being “on track”.  I’m working on being more direct, but I know this is one of my weaknesses.
 
 ## In Conclusion
