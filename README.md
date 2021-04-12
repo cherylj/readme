@@ -24,9 +24,12 @@ I might ask questions in stand ups, on code reviews, in tickets, in person, etc.
 
 I do NOT ask questions to put you on the spot.  If you prefer a different way for me to get this information, please let me know.
 
+### NO SURPRISES
+Not knowing what your manager thinks of your performance is unsettling. I try to give as much in the moment feedback as I can, but sometimes it may be delayed due to meetings, getting behind on email, etc.  I will set up formal checkins in the middle of evaluation periods (or more with a 6 weeks max between checkins) to take a close look at where things stand and give feedback to help get you to where you want to go for the quarter / 6 mo / 1 year.  I also use a collaborative approach for writing your evaluation so you know exactly what I'll write.
+
 ### Code (sometimes)
 Even though I’m a manager, I’m still an engineer at heart and I get sad if it’s been too long since I’ve written code (like a week, tops).  When I do write code, I:
-* try to pick work that’s not in the critical path.  I don’t want to block people or products because I have too many meetings.  This can be tricky in the Incubator because if it’s not critical path stuff, then why would we do it?
+* try to pick work that’s not in the critical path.  I don’t want to block people or products because I have too many meetings.  This can be tricky sometimes because if it’s not critical path stuff, then why would we do it?
 * highly value your code reviews.  You will likely know the language / platform / team specific idioms way better than I do.  Don’t hold back on things like style, convention and refactoring suggestions (in addition to correctness comments).
 
 I also really enjoy participating in design discussions / brainstorming solutions, so don’t be surprised if I sit in on these types of discussions within the team. 
@@ -57,16 +60,14 @@ I ramble, one might say.  I dislike silence.  If you need silence, or need me to
 I have a hard time sleeping if there’s a task left unfinished or a problem left unsolved.  I do NOT expect you to do the same.  If I see you putting in long hours, expect that I’ll check in and make sure you’re doing it because you want to (like me), not because you feel like you have to.
 
 ### I have a weirdly high tolerance for process.
-This is great for you, because I will power through process-heavy things (like level ups, planning events, etc.) so you don’t have to bear the full brunt of it.  I love figuring out how to “work the system”.  I derive substantial satisfaction from learning the ins and outs of how a system / process works and helping other folks navigate things quickly with minimal pain.  Maybe my next career should be as a sherpa (lol, just kidding.  I hate the cold).
+This is great for you, because I will power through process-heavy things (like promotions, planning events, etc.) so you don’t have to bear the full brunt of it.  I love figuring out how to “work the system”.  I derive substantial satisfaction from learning the ins and outs of how a system / process works and helping other folks navigate things quickly with minimal pain.  Maybe my next career should be as a sherpa (lol, just kidding.  I hate the cold).
 
 However, my tolerance for process means I also have a blind spot when team processes get too cumbersome.  I need you to help keep me in check there.
 
-### I default to a light touch when dealing with performance issues...
-...because this is the approach that works best for those who have to manage me.  If our 1x1s are full of:
-* Suggestions of things you could do instead of / in addition to what you’ve been doing, or
-* Extensive questions about what you’ve been spending your time on
+### I start with a light touch when dealing with performance issues...
+...because this is the approach that works best for those who have to manage me.  I will seek to understand what might be going on (unclear expectations, personal issues, etc), but will let you know if I am concerned that things aren't on track.
 
-I may be trying to guide you back to being “on track”.  I’m working on being more direct, but I know this is one of my weaknesses.
+If things don't improve, expect direct feedback that expectations aren't being met with examples to help arrive at a shared understanding.
 
 ## In Conclusion
 I hope this helps you get a sense of what working with me will be like.  If you feel at any time that I am not living up to this document, call me out on it.  You can always soften the blow with funny cat gifs.
