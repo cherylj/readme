@@ -1,6 +1,6 @@
 # Cheryl's Manager README
 ## What is this?
-This thing?  This is a concept that’s been floating around Eng Managers at Indeed.  Yeah, it’s kinda weird, but also kinda neat.  Learning how to work with a new manager can be hard.  For some folks, it can be an anxiety-inducing phase until we figure things out.  This README aims to help alleviate some of that anxiety and jump-start our working relationship.
+This thing?  This is a concept that’s been floating around some Eng Managers circles.  Yeah, it’s kinda weird, but also kinda neat.  Learning how to work with a new manager can be hard.  For some folks, it can be an anxiety-inducing phase until we figure things out.  This README aims to help alleviate some of that anxiety and jump-start our working relationship.
 
 ## My management philosophy
 * I am here to help **you** be successful.  I want to make sure you have the support you need to succeed as a team and as an individual in your career.
@@ -14,7 +14,7 @@ This time is for you to talk about your career and how you feel things are going
 Our weekly 1x1s are “minimum checkpoints”.  If you need me for anything, you are always welcome to grab me at my desk, put some time on my calendar, or just grab me for lunch or a coffee break.  I can move meetings if needed.
 
 ### Enthusiastic Support
-I will enthusiastically support your growth and actively help you find opportunities to grow, learn, and increase your exposure and influence at Indeed.  (see Known Quirks section for additional info)
+I will enthusiastically support your growth and actively help you find opportunities to grow, learn, and increase your exposure and influence.  (see Known Quirks section for additional info)
 
 ### Questions
 I might ask questions in stand ups, on code reviews, in tickets, in person, etc.  I ask questions to:
