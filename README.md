@@ -25,7 +25,7 @@ I might ask questions in stand ups, on code reviews, in tickets, in person, etc.
 I do NOT ask questions to put you on the spot.  If you prefer a different way for me to get this information, please let me know.
 
 ### NO SURPRISES
-Not knowing what your manager thinks of your performance is unsettling. I try to give as much in the moment feedback as I can, but sometimes it may be delayed due to meetings, getting behind on email, etc.  I will set up formal checkins in the middle of evaluation periods (or more with a 6 weeks max between checkins) to take a close look at where things stand and give feedback to help get you to where you want to go for the quarter / 6 mo / 1 year.  I also use a collaborative approach for writing your evaluation so you know exactly what I'll write.
+Not knowing what your manager thinks of your performance is unsettling. I try to give as much in the moment feedback as I can, but sometimes it may be delayed due to meetings, getting behind on email, etc.  I will set up formal checkins in the middle of evaluation periods to take a close look at where things stand and give feedback to help get you to where you want to go for the quarter / 6 mo / 1 year.  I also use a collaborative approach for writing your evaluation so you know exactly what I'll write.
 
 ### Code (sometimes)
 Even though I’m a manager, I’m still an engineer at heart and I get sad if it’s been too long since I’ve written code (like a week, tops).  When I do write code, I:
